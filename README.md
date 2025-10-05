@@ -38,7 +38,7 @@ Copiar código
 npm start
 The app will run (e.g.) on http://localhost:3000
 
-📁 Structure
+## 📁 Structure
 css
 Copiar código
 car-renting/
@@ -51,10 +51,9 @@ car-renting/
 ├── package.json
 └── README.md
 
-👤 Author
-LXLLXVX
+## 👤 Author
+Ángel Lallave Herrera
 
-(Add your email or contact if you like)
 
-📄 License
+## 📄 License
 This project is under the MIT License.
